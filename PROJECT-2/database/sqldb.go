@@ -9,8 +9,8 @@ import (
 
 const (
 	host     = "localhost"
-	user     = "midas"
-	password = "123qwer321QWER"
+	user     = "/*/"
+	password = "/*/"
 	dbname   = "users"
 	port     = "5432"
 )
